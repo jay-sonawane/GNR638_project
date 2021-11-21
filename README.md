@@ -14,14 +14,7 @@ In this project, we test on the dataset:
 ## Usage
 
 ### Prerequisities
-
-The following dependencies are needed:
-
-- Kearas == 2.2.4
-- Opencv == 3.3.1
-- Tensorflow == 1.10.0
-- Matplotlib == 3.1.3
-- Numpy == 1.19.1
+The required packages are mentioned in ipynb
 
 ### training
 
